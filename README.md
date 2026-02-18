@@ -19,7 +19,7 @@ The company is experiencing customer attrition. The objective is to:
 This project uses the **Telco Customer Churn** dataset available on Kaggle:  
 🔗 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
-- 📊 **Total Records:** 7,043 customers  
-- 📁 **Total Features:** 21 columns  
-- 🎯 **Target Variable:** `Churn` (Yes / No)  
-- 🏢 **Domain:** Telecommunications Customer Retention Analysis  
+- **Total Records:** 7,043 customers  
+- **Total Features:** 21 columns  
+- **Target Variable:** `Churn` (Yes / No)  
+- **Domain:** Telecommunications Customer Retention Analysis  
