@@ -73,4 +73,27 @@ This indicates that contract commitment plays a major role in customer retention
 
 ![Contract Vs Churn](assits/contract_vs_churn.png)
 
+## 🔥 Key Insights
 
+- 📌 **Contract Type** is the strongest categorical predictor of churn.  
+  Month-to-month customers exhibit significantly higher churn rates compared to long-term contract customers.
+
+- 📊 **Tenure** is the strongest numerical predictor.  
+  Customers within their first year are substantially more likely to churn.
+
+- 💰 **Monthly Charges** show a weak positive correlation with churn, indicating that higher pricing slightly increases churn risk.
+
+- 🌐 **Fiber Optic Customers** demonstrate elevated churn rates, potentially due to pricing sensitivity or service expectations.
+
+- 🎯 The highest-risk segment consists of short-tenure customers on month-to-month contracts.
+
+
+## 📈 Business Recommendations
+
+- 🚀 Strengthen onboarding and engagement strategies during the first 12 months to reduce early-stage churn.
+
+- 🔄 Incentivize migration from month-to-month to long-term contracts through loyalty programs and financial benefits.
+
+- 💡 Implement targeted retention strategies for high-paying customers to mitigate price sensitivity.
+
+- 🔍 Conduct service quality assessments for fiber optic customers and enhance support mechanisms to improve satisfaction.
